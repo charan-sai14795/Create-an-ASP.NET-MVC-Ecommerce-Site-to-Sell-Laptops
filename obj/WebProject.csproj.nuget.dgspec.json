@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\OneDrive\\سطح المكتب\\WebProject\\WebProject.csproj": {}
+    "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\WebProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\OneDrive\\سطح المكتب\\WebProject\\WebProject.csproj": {
+    "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\WebProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\OneDrive\\سطح المكتب\\WebProject\\WebProject.csproj",
+        "projectUniqueName": "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\WebProject.csproj",
         "projectName": "WebProject",
-        "projectPath": "C:\\Users\\Pc\\OneDrive\\سطح المكتب\\WebProject\\WebProject.csproj",
-        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\OneDrive\\سطح المكتب\\WebProject\\obj\\",
+        "projectPath": "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\WebProject.csproj",
+        "packagesPath": "C:\\Users\\chara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
