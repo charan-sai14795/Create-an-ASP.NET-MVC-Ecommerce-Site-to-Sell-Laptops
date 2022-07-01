@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\WebProject.csproj": {}
+    "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\WebProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\WebProject.csproj": {
+    "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\WebProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\WebProject.csproj",
+        "projectUniqueName": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\WebProject.csproj",
         "projectName": "WebProject",
-        "projectPath": "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\WebProject.csproj",
+        "projectPath": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\WebProject.csproj",
         "packagesPath": "C:\\Users\\chara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chara\\Source\\Repos\\simplileran-projects-for-wipro\\obj\\",
+        "outputPath": "C:\\Users\\chara\\source\\repos\\simplileran-projects-for-wipro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chara\\AppData\\Roaming\\NuGet\\NuGet.Config",
